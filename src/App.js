@@ -5,6 +5,7 @@ function App() {
   return (
    <>
      <h2>Demo App</h2>
+     <h3>Branch version 2.0</h3>
    </>
   );
 }
